@@ -3,3 +3,5 @@
 # Welcome to the Open Charging Cloud
 
 The Open Charging Cloud provides Open Source software and SaaS services for e-mobility operators.
+
+You can find us also on YouTube: https://www.youtube.com/@openchargingcloud3399
